@@ -1,0 +1,15 @@
+#Optical Telecommunications Simulation
+Project Overview
+
+This Python project simulates Point-to-Multipoint (Ptmp) and Point-to-Point (Ptp) optical telecommunication technologies. The goal is to model the connection of transceivers (antennas) to hubs using the Best Fit Degreaser method, visualize network topology, and analyze key performance metrics.
+
+Features
+
+    Randomized Network Generation – The system takes a random number of transceivers and connects them to hubs.
+    Ptmp vs. Ptp Comparison – The same process is applied to both technologies for performance evaluation.
+    Network Visualization – The tool generates diagrams representing the network structure for better understanding.
+    Performance Analysis – It calculates the number of transceivers and subcarriers required and enables comparative analysis between Ptmp and Ptp.
+
+Purpose
+
+This project was developed as part of a college thesis on Optical Telecommunications to assist in demonstrating network design principles and efficiency comparisons between different communication technologies.
